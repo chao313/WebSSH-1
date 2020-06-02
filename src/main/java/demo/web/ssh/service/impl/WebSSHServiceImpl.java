@@ -1,9 +1,9 @@
-package cn.objectspace.webssh.service.impl;
+package demo.web.ssh.service.impl;
 
-import cn.objectspace.webssh.constant.ConstantPool;
-import cn.objectspace.webssh.pojo.SSHConnectInfo;
-import cn.objectspace.webssh.pojo.WebSSHData;
-import cn.objectspace.webssh.service.WebSSHService;
+import demo.web.ssh.constant.ConstantPool;
+import demo.web.ssh.pojo.SSHConnectInfo;
+import demo.web.ssh.pojo.WebSSHData;
+import demo.web.ssh.service.WebSSHService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jcraft.jsch.Channel;
 import com.jcraft.jsch.JSch;

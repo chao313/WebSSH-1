@@ -1,4 +1,4 @@
-package cn.objectspace.webssh.service;
+package demo.web.ssh.service;
 
 import org.springframework.web.socket.WebSocketSession;
 

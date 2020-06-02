@@ -1,4 +1,4 @@
-package cn.objectspace.webssh.constant;
+package demo.web.ssh.constant;
 
 /**
 * @Description: 常量池

@@ -1,7 +1,7 @@
-package cn.objectspace.webssh.config;
+package demo.web.ssh.config;
 
-import cn.objectspace.webssh.interceptor.WebSocketInterceptor;
-import cn.objectspace.webssh.websocket.WebSSHWebSocketHandler;
+import demo.web.ssh.interceptor.WebSocketInterceptor;
+import demo.web.ssh.websocket.WebSSHWebSocketHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;

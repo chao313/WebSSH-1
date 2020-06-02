@@ -1,4 +1,4 @@
-package cn.objectspace;
+package demo.web.ssh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

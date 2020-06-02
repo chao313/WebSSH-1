@@ -1,6 +1,6 @@
-package cn.objectspace.webssh.interceptor;
+package demo.web.ssh.interceptor;
 
-import cn.objectspace.webssh.constant.ConstantPool;
+import demo.web.ssh.constant.ConstantPool;
 import org.springframework.http.server.ServerHttpRequest;
 import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.http.server.ServletServerHttpRequest;

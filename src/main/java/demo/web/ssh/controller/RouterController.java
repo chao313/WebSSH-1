@@ -1,4 +1,4 @@
-package cn.objectspace.webssh.controller;
+package demo.web.ssh.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
