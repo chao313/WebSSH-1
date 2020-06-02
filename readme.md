@@ -50,3 +50,7 @@ openTerminal( {
   
 ## 写在最后
 欢迎各位大佬给我提issue，感谢！
+
+## 注意:
+最好保持 webssh.js var endpoint = protocol+'127.0.0.1:8080/webssh'; 一致
+(如果网页可以访问，但是一直在连接中就是这个问题)
